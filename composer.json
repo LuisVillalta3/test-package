@@ -1,0 +1,11 @@
+{
+    "name": "villalta/calculator",
+    "description": "Test package",
+    "authors": [
+        {
+            "name": "LuisVillalta",
+            "email": "luisvillalta3@gmail.com"
+        }
+    ],
+    "require": {}
+}
